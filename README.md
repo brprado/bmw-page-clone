@@ -1,5 +1,5 @@
 # bmw_contato
-Criação de uma página de contato para a empresa BMW
+Criação de uma página de contato para a empresa BMW (somente para praticar)
 ##
 
 
