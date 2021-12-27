@@ -1,0 +1,103 @@
+body {
+  position: relative;
+  background-image: url(../images/bmw2.jpg);
+  background-size: 900px;
+  background-position-y: -30px;
+}
+#container {
+  display: inline-block;
+  width: 30vw;
+  height: 95vh;
+  border: 1px solid grey;
+  border-radius: 3px;
+  margin-left: 25px;
+  padding-left: 10px;
+}
+#titulo {
+  color: white;
+  font-size: 25px;
+  margin-left: 5px;
+  font-family: "Montserrat", sans-serif;
+}
+#cars {
+  margin-left: 5px;
+  font-family: "Montserrat", sans-serif;
+  color: rgb(118, 130, 131);
+  margin-top: 5px;
+}
+#insta {
+  position: absolute;
+  width: 25px;
+  right: 0px;
+  bottom: 45px;
+}
+label {
+  display: block;
+  margin-left: 5px;
+  font-family: "Montserrat", sans-serif;
+  color: rgb(118, 130, 131);
+  margin-top: 5px;
+}
+#wpp {
+  position: absolute;
+  width: 25px;
+  right: 0px;
+  bottom: 7px;
+}
+footer {
+  position: absolute;
+  color: white;
+  font-size: 10px;
+  right: 0;
+  font-weight: lighter;
+  font-family: "Montserrat", sans-serif;
+}
+input {
+  margin-left: 5px;
+  width: 150px;
+  height: 15px;
+  font-family: "Montserrat", sans-serif;
+  color: rgb(118, 130, 131);
+}
+#estados {
+  margin-left: 5px;
+  font-family: "Montserrat", sans-serif;
+  color: rgb(118, 130, 131);
+  margin-top: 5px;
+}
+#nome {
+  margin-left: 5px;
+  font-family: "Montserrat", sans-serif;
+  color: rgb(118, 130, 131);
+  margin-top: 5px;
+}
+#contato {
+  margin-top: 5px;
+}
+#enviar {
+  width: 60px;
+  height: 20px;
+  padding: 1px;
+  font-family: "Montserrat", sans-serif;
+  color: rgb(88, 98, 99);
+  border: 1px solid black;
+  border-radius: 3px;
+  background-color: rgb(118, 130, 131);
+  color: white;
+}
+#enviar:hover {
+  width: 60px;
+  height: 20px;
+  padding: 1px;
+  font-family: "Montserrat", sans-serif;
+  background-color: rgba(50, 185, 238, 0.3);
+  color: white;
+}
+#video {
+  position: absolute;
+  display: inline;
+  top: 120px;
+  right: 10px;
+  border: 1px solid black;
+  border-radius: 3px;
+}
